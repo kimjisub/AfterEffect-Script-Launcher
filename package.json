@@ -1,0 +1,23 @@
+{
+	"name": "aftereffect-script-launcher",
+	"version": "1.0.0",
+	"description": "Run jsx in Adobe After effect.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/0226daniel/AfterEffect-Script-Launcher.git"
+	},
+	"author": "0226daniel",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/0226daniel/AfterEffect-Script-Launcher/issues"
+	},
+	"homepage": "https://github.com/0226daniel/AfterEffect-Script-Launcher#readme",
+	"dependencies": {
+		"child_process": "^1.0.2",
+		"fs-extra": "^8.1.0"
+	}
+}
