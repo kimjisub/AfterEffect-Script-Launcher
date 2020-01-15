@@ -1,6 +1,6 @@
 {
 	"name": "aftereffect-script-launcher",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Run jsx in Adobe After effect.",
 	"main": "index.js",
 	"scripts": {
