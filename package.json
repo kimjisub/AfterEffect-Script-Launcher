@@ -10,6 +10,10 @@
 		"type": "git",
 		"url": "git+https://github.com/0226daniel/AfterEffect-Script-Launcher.git"
 	},
+	"keywords": [
+		"Adobe",
+		"After Effect"
+	],
 	"author": "0226daniel",
 	"license": "MIT",
 	"bugs": {
